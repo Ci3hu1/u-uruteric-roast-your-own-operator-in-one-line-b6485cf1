@@ -45,5 +45,4 @@
   for waking the agent and sleeping through the work.
 
 ## Live score / rank
-- Not submitted yet (awaiting Joni's 'Setuju'). Blind rounds: read
-  GET /api/competitions/<slug>/rounds after round 1 (24 Nov 21:44 UTC).
+- SUBMITTED 24 Nov 2026 ~13:33 WIB: submission 01a20c42-6dee-77bc-b750-434eca6a5ccc, stage submitted (grading queue behind at submit; check again in 5 min). Entry commit 374fbd976d7f5864b9db03489ec3b219906a4b6c. Bundle sha256 067de19f338a22dafbe59197b5e1fa9b3f259859951b299acf31d9b34a2c19d1 (235,269 B). Kit check ok=true (reproduces 158/172 = 91.8%, revised pass). Blind rounds: counts from round 1 of 3 (cutoff 24 Nov 21:44:19 UTC / 25 Nov 04:44 WIB). Read GET /api/competitions/<slug>/rounds after round 1.
